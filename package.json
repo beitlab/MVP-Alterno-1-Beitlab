@@ -1,0 +1,25 @@
+{
+  "name": "camaras_onvif_vision_ia",
+  "version": "2.0.0",
+  "description": "toma video en tiempo real y lo distribuye en los clientes conectados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./backend/",
+    "dev": "nodemon ./backend/"
+  },
+  "author": "Andres Jejen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "node-onvif": "^0.1.7",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "nodemon": "^1.18.9"
+  }
+}
