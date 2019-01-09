@@ -1,6 +1,6 @@
 Para usar el proyecto siga los siguientes pasos
 
-1. abrir la consola y ubicarse en la carpeta Camaras_3
+1. abrir la consola y ubicarse en la carpeta "MVP-Alterno-1-Beitlab"
 
 2. Ejecutar el siguiente comando    
 
